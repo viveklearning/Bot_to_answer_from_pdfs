@@ -100,5 +100,5 @@ This project implements a Retrieval-Augmented Generation (RAG) model for a QA bo
   
 ## Additional Documentation
 
-- [Colab Notebook](link-to-notebook) - Demonstrates the entire pipeline from data loading to question answering.
-- [Deployment Videos](link-to-videos) - Provides visual explanations of the deployment process.
+- [Colab Notebook](https://github.com/viveklearning/Bot_to_answer_from_pdfs/blob/main/db.ipynb) - Demonstrates the entire pipeline from data loading to question answering.
+- [Deployment Videos](https://github.com/viveklearning/Bot_to_answer_from_pdfs/blob/main/assignment_sample3_2.mp4) - Provides visual explanations of the deployment process.
