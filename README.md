@@ -86,7 +86,7 @@ This project implements a Retrieval-Augmented Generation (RAG) model for a QA bo
 - **Frontend:** Built with Streamlit for a responsive and interactive user interface. Code is modular with reusable components.
 - **Backend:** Handles document processing, embedding generation, and service interactions. Code is organized into functions for maintainability and scalability.
 
-## Documentation and Approach
+## Documentation and Approach [More Documentation](https://github.com/viveklearning/Bot_to_answer_from_pdfs/blob/main/Documentation.md)
 
 - **Decisions Made:**
   - **Model Selection:** Chose Cohere API for its advanced text generation capabilities and Pinecone DB for efficient vector storage.
